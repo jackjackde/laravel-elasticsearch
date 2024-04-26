@@ -1,5 +1,5 @@
 {
-    "name": "jackjackde/elasticsearch",
+    "name": "jackjackde/laravel-elasticsearch",
     "description": "An Elasticsearch implementation of Laravel's Eloquent ORM",
     "keywords": [
         "laravel",
